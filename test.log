@@ -3,3 +3,6 @@
 2022-09-06 12:11:07 DEBUG    config data {'creds': 'credentials.json', 'properties': ['1', '2', '3', '4']}
 2022-09-06 12:11:07 DEBUG    GOOGLE_APPLICATION_CREDENTIALS set to credentials.json
 2022-09-06 12:11:07 DEBUG    Checking credentials.json for explicit credentials as part of auth process...
+2022-11-02 16:43:15 DEBUG    config data {'creds': 'credentials.json', 'properties': ['1', '2', '3', '4']}
+2022-11-02 16:43:15 DEBUG    GOOGLE_APPLICATION_CREDENTIALS set to credentials.json
+2022-11-02 16:43:15 DEBUG    Checking credentials.json for explicit credentials as part of auth process...
