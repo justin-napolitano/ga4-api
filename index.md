@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - data api
   - analytics api integration
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The project involves programmatic interaction with the Google Analytics 4 Data API, focusing on
+  data querying, configuration, and analytics workflows in Python, aligning best with data
+  science-related projects and data analysis pipelines.
 ---
 
 # ga4-api: A Technical Reference
@@ -68,3 +74,4 @@ To evolve this project into a robust GA4 API client, consider:
 ## Summary
 
 ga4-api is a foundational tool aimed at engineers needing to interact with the GA4 Data API programmatically. It encapsulates authentication, configuration, and request construction in Python, providing a practical starting point for further development and integration within analytics workflows.
+
