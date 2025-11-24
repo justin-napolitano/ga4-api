@@ -1,12 +1,27 @@
 ---
-slug: "github-ga4-api"
-title: "ga4-api"
-repo: "justin-napolitano/ga4-api"
-githubUrl: "https://github.com/justin-napolitano/ga4-api"
-generatedAt: "2025-11-23T08:58:28.281328Z"
-source: "github-auto"
+slug: github-ga4-api
+title: 'ga4-api: Python Client for Google Analytics 4 Data API Interaction'
+repo: justin-napolitano/ga4-api
+githubUrl: https://github.com/justin-napolitano/ga4-api
+generatedAt: '2025-11-23T08:58:28.281328Z'
+source: github-auto
+summary: >-
+  A Python tool enabling authentication, configuration, and programmatic querying of Google
+  Analytics 4 Data API using Google's client library.
+tags:
+  - python
+  - google-analytics-4
+  - api-client
+  - data-analytics
+  - ga4-api
+seoPrimaryKeyword: ga4 api
+seoSecondaryKeywords:
+  - google analytics 4
+  - python client
+  - data api
+  - analytics api integration
+seoOptimized: true
 ---
-
 
 # ga4-api: A Technical Reference
 
