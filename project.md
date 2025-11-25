@@ -8,15 +8,15 @@ generatedAt: '2025-11-24T21:34:49.610Z'
 source: github-auto
 summary: >-
   Learn how to effectively integrate the Google Analytics 4 API into your
-  applications for better data insights.
+  application for enhanced data tracking.
 tags: []
 seoPrimaryKeyword: google analytics 4 api integration
 seoSecondaryKeywords:
   - ga4 setup
-  - analytics data retrieval
-  - api usage examples
+  - analytics data
+  - api usage
+  - web tracking
   - javascript ga4
-  - data insights
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
