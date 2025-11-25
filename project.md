@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/ga4-api
 generatedAt: '2025-11-24T21:34:49.610Z'
 source: github-auto
 summary: >-
-  Learn how to effectively integrate the Google Analytics 4 API into your
-  application for enhanced data tracking.
+  Learn how to effectively integrate the Google Analytics 4 API into your application for enhanced
+  data tracking.
 tags: []
 seoPrimaryKeyword: google analytics 4 api integration
 seoSecondaryKeywords:
@@ -18,8 +18,8 @@ seoSecondaryKeywords:
   - web tracking
   - javascript ga4
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -29,3 +29,4 @@ showInLogs: false
 ---
 
 ...
+
